@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "server"
+  icon_pack = "fas"
+  name = "server"
+  description = "Computational Materials Science"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Python-based programming"
+  description = "Use of Python-based APIs for ab-initio calculations and analysis"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Synchrotron-based Material Science"
+  description = "Understanding the structure of crystalline and amorphous materials"
 
 # Uncomment to use emoji icons.
 # [[feature]]

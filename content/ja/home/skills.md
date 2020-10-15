@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "server"
+  icon_pack = "fas"
+  name = "計算機"
+  description = "計算材料科学"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Pythonプログラミング"
+  description = "ab-initioの計算と分析のためのPythonのAPIの使用"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "放射光を利用する材料科学"
+  description = "結晶性およびアモルファス材料の構造を理解する"
 
 # Uncomment to use emoji icons.
 # [[feature]]

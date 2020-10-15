@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Current Research Themes"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,16 +22,24 @@ subtitle = ""
   filter_default = 0
   
     [[content.filter_button]]
-      name = "Transition Metal Dichalcogenides"
+    name = "All"
+    tag = "*"
+  
+    [[content.filter_button]]
+      name = "TDMC"
       tag = "TDMC"
   
    [[content.filter_button]]
-     name = "Phase-Change Materials"
+     name = "Phase-Change"
      tag = "PCM"
   
    [[content.filter_button]]
      name = "Amorphous Materials"
      tag = "Amorphous"
+     
+   [[content.filter_button]]
+     name = "Ultrafast"
+     tag = "ultrafast"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -74,4 +82,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+There are several ongoing themes present in the Fons research group some of which are listed
+below. The basic theme is to understand 
+atomic level structure and use the resulting understanding to optimize functionality. This includes the use
+of synchrotron radiation to investigate the physical and electronic structure of solids using tools
+such as x-ray absorption spectroscopy (XAFS) or high-energy photoemission spectroscopy. 
+XAFS is a technique particular useful for understanding the structure of amorphous solids.
+Ultrafast dynamics has also been a topic of interest with collaborative efforts including 
+using the free-electron laser SACLA at SPring-8, coherent phonon dynamics, or
+ab-initio molecular dynamics calculations.
 

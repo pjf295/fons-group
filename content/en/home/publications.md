@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Important Publications"
 subtitle = ""
 
 [content]
@@ -66,7 +66,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+A complete list of (over 300) publications can be found at Google Scholar.
+
+https://scholar.google.com/citations?user=-JgliQ8AAAAJ&hl=en&authuser=1-
 {{% /alert %}}
+

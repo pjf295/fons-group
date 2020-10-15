@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "上級主任研究員"
+  company = "産業技術総合研究所"
+  company_url = "http://www.aist.go.jp"
+  location = "茨城県つくば市"
+  date_start = "1993-04-01"
+  date_end = "2020-03-31"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * 計算材料科学
+  * 放射光 基づいて分析
+  * システマティックマテリアルズデザイン
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "教授"
+  company = "慶應義塾大学"
+  company_url = "http://www.keio.ac.jp"
+  location = "神奈川県横浜"
+  date_start = "2020-04-01"
+  date_end = ""
+  description = """電子工学および半導体物理学研究の文脈で材料科学を教える"""
 
 +++

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Current Research Themes"
 
 [content]
   # Page type to display. E.g. project.
@@ -21,17 +21,25 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+    [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+    [[content.filter_button]]
+      name = "TDMC"
+      tag = "TDMC"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Phase-Change"
+     tag = "PCM"
+  
+   [[content.filter_button]]
+     name = "Amorphous Materials"
+     tag = "Amorphous"
+     
+   [[content.filter_button]]
+     name = "Ultrafast"
+     tag = "ultrafast"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -74,4 +82,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+Fons研究グループにはいくつかの進行中のテーマがあり、そのうちのいくつかを以下に示します。基本的なテー
+マは、原子レベルの構造を理解し、その結果得られた理解を使用して機能を最適化することです。これには、X
+線吸収分光法（XAFS）や高エネルギー光電子分光法などのツールを使用して固体の物理的および電子的構造を調
+査するためのシンクロトロン放射の使用が含まれます。
+XAFSは、アモルファス固体の構造を理解するのに特に役立つ手法です。超高速ダイナミクスは、SPring-
+8での自由電子レーザーSACLAの使用、コヒーレントフォノンダイナミクス、または非経験的分子動力学計算など
+の共同作業でも関心のあるトピックです。

@@ -11,9 +11,9 @@
 [ja]
  languageCode = "ja-jp"
  contentDir = "content/ja"
- title = "日本語版だよ"
+ title = "フォンス研究グループ"
  [ja.params]
-   description = "日本語の説明だよ"
+   description = "日本語の説明"
 
 [[ja.menu.main]]
   name = "ホーム"

@@ -57,13 +57,9 @@ This is the home page of the Fons research group of Keio University Faculty of S
 Welcome.  On these pages, you will find an introduction ot the current and some past research.
 I am interested in a variety of different topics and always interesting in learning more about new things.
 
+I would like to create an international environment for students working with me. Both 
+English and Japanese languages are welcome. I will try my best to give students a different perspective
+filled with international collaborations. Please join me in learning more about the world.
 
-<!-- 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
 
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
- -->

@@ -18,7 +18,10 @@ organizations:
   url: "https://www.keio.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the use of computational material science and synchrotron radiation techniques to design and develop new materials.
+bio: 私の研究課題は、新しい材料をデザインし開発するために、計算材料科学の手法と放射光解析技術を使うことです。
+
+# # My research interests include the use of computational material science and synchrotron radiation techniques to design and develop new materials.
+
 
 interests:
  - 計算材料科学

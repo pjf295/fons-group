@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 電気情報工学科
+role: 電気情報工学科総合デザイン工学専攻
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.keio.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 私の研究課題は、新しい材料をデザインし開発するために、計算材料科学の手法と放射光解析技術を使うことです。
+bio: 私の研究課題は、計算材料科学の手法と放射光解析技術を使って、新しい材料をデザインし開発することです。
 
 # # My research interests include the use of computational material science and synchrotron radiation techniques to design and develop new materials.
 

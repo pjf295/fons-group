@@ -31,11 +31,12 @@ interests:
 education:
   courses:
   - course: 博士（材料科学)
-    institution: イリノイ大学アーバナシャンペーン
+    institution: 米国イリノイ大学アーバナシャンペーン
   - course: 物理学の修士
-    institution: イリノイ大学アーバナシャンペーン
+    institution: 米国イリノイ大学アーバナシャンペーン
   - course: 物理学の理学士
-    institution: Bates大学、メイン州
+    institution: 米国ベイツ大学
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

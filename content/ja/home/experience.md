@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "神奈川県横浜"
   date_start = "2020-04-01"
   date_end = ""
-  description = """電子工学および半導体物理学研究の文脈で材料科学を教える"""
+  description = """材料科学、特に電子工学および半導体物理学を教える"""
 
 +++

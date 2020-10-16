@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Electrical Engineering
+role: Professor of Electronics and Electrical Engineering, School of Integrated Design and Engineering
 
 # Organizations/Affiliations
 organizations:

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DFT | Fons Research Group</title>
+    <link>/tag/dft/</link>
+      <atom:link href="/tag/dft/index.xml" rel="self" type="application/rss+xml" />
+    <description>DFT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>P. Fons ©</copyright><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>DFT</title>
+      <link>/tag/dft/</link>
+    </image>
+    
+    <item>
+      <title>Role of Electric fields in interfacial phase-change memory</title>
+      <link>/publication/e-fields/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/e-fields/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Density-Functional Theory</title>
+      <link>/project/dft/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/dft/</guid>
+      <description>&lt;p&gt;Density-functional theory (DFT) is used to predict a variety of material properties. In addition,
+ab-initio molecular dynamics based upon DFT is used to examine structural dynamics and
+to generate metastable (amorphous phases) by means of a melt-quench process. The plane-wave codes
+VASP (Vienna Ab initio Simulation Package), CASTEP (CAmbridge Serial Total Energy Package),
+as well as the FP-(L)APW+lo code Wien2K are used to investigate both structural and electronic
+properties of samples under study. In addition the real-space Greens function code Feff9 and
+FMDNES codes are used for the simulation of x-ray absorption data. The figure above shows the charge-density difference (CDD)
+for a cross-section of the GeTe lattice which has both short and long bonds. The CDD plot is constructed
+by taking the difference between the charge density of the solid and pseudo-atoms. As such the pileup
+of charge between two atoms is suggestive of a covalent bond as describe by Pauling.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

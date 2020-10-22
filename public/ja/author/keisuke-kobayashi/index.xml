@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keisuke Kobayashi | フォンス研究グループ</title>
+    <link>/ja/author/keisuke-kobayashi/</link>
+      <atom:link href="/ja/author/keisuke-kobayashi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keisuke Kobayashi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>P. Fons ©</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Keisuke Kobayashi</title>
+      <link>/ja/author/keisuke-kobayashi/</link>
+    </image>
+    
+    <item>
+      <title>Cr-Triggered Local Structural Change in Cr₂Ge₂Te₆ Phase Change Material</title>
+      <link>/ja/publication/cr2ge2te6/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/cr2ge2te6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

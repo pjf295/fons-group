@@ -69,6 +69,7 @@ subtitle = ""
 {{% alert note %}}
 A complete list of (over 300) publications can be found at Google Scholar.
 
-https://scholar.google.com/citations?user=-JgliQ8AAAAJ&hl=en&authuser=1-
+[Google Scholar Paper List](https://scholar.google.com/citations?user=-JgliQ8AAAAJ&hl=en&authuser=1-)
+
 {{% /alert %}}
 

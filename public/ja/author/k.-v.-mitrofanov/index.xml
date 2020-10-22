@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. V. Mitrofanov | フォンス研究グループ</title>
+    <link>/ja/author/k.-v.-mitrofanov/</link>
+      <atom:link href="/ja/author/k.-v.-mitrofanov/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. V. Mitrofanov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>P. Fons ©</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>K. V. Mitrofanov</title>
+      <link>/ja/author/k.-v.-mitrofanov/</link>
+    </image>
+    
+    <item>
+      <title>Sub-nanometre resolution of atomic motion during electronic excitation in phase-change materials</title>
+      <link>/ja/publication/ultrafast/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/ultrafast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

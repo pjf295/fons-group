@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DFT | フォンス研究グループ</title>
+    <link>/ja/tag/dft/</link>
+      <atom:link href="/ja/tag/dft/index.xml" rel="self" type="application/rss+xml" />
+    <description>DFT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>P. Fons ©</copyright><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>DFT</title>
+      <link>/ja/tag/dft/</link>
+    </image>
+    
+    <item>
+      <title>Role of Electric fields in interfacial phase-change memory</title>
+      <link>/ja/publication/e-fields/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/e-fields/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>密度汎関数理論</title>
+      <link>/ja/project/dft/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/project/dft/</guid>
+      <description>&lt;p&gt;密度汎関数理論（Density-Functional Theory or DFT）は、さまざまな材料特性を予測するために使用されます。
+ab-initio分子動力学法を使用して、メルトクエンチシムレーションによってアモルファス構造を生成できます。
+平面波DFTソフトであるVASP（Vienna Ab initio Simulation Package）とCASTEP（CAmbridge Serial Total Energy Package）、
+そしてFP-LPAW+loであるWien2Kは、構造と電子構造の両方を調査するために使用されます。
+X線吸収分光法のデータの解析ために、実空間のグリーン関数ソフトFeff9と
+FMDNESシミュレーションソフトも利用します。&lt;/p&gt;
+&lt;p&gt;上の図は、電荷密度差（charge density difference: CDD）を示しています。
+短い結合と長い結合の両方を持つGeTe格子の断面を示します。
+固体原子と疑似原子の電荷密度の差をとることによって CDDプロットが作成されます。
+原子の間に電荷が集まっている場合、Paulingが説明しているように、共有結合を示唆します。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

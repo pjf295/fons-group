@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.L. Ankudinov | フォンス研究グループ</title>
+    <link>/ja/author/a.l.-ankudinov/</link>
+      <atom:link href="/ja/author/a.l.-ankudinov/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.L. Ankudinov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>P. Fons ©</copyright><lastBuildDate>Mon, 01 Mar 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A.L. Ankudinov</title>
+      <link>/ja/author/a.l.-ankudinov/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the phase-change mechanism of rewritable optical media</title>
+      <link>/ja/publication/nm/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/nm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

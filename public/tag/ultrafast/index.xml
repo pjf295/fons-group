@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ultrafast | Fons Research Group</title>
+    <link>/tag/ultrafast/</link>
+      <atom:link href="/tag/ultrafast/index.xml" rel="self" type="application/rss+xml" />
+    <description>ultrafast</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>P. Fons ©</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>ultrafast</title>
+      <link>/tag/ultrafast/</link>
+    </image>
+    
+    <item>
+      <title>Ultrafast Dynamics</title>
+      <link>/project/ultrafast/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/ultrafast/</guid>
+      <description>&lt;p&gt;Ultrafast measurements of chemical reactions and phonon behavior have been carried out using
+time-resolve synchrotron radiation-based x-ray absorption, free-electron laser diffraction,
+as well as all-optical pump-probe experiments. Above is a plot of the time-dependence of
+a free-electron based optical-pump/ x-ray probe diffraction experiment on a Ge₂Sb₂Te₅ single epilayer (left) along with
+a simulation of the diffraction signal based upon the propagation of the acoustic phonon generated
+by the 20 fs optical pump pulse.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electronic excitation-induced semiconductor-to-metal transition in monolayer MoTe₂</title>
+      <link>/publication/tdmc/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tdmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub-nanometre resolution of atomic motion during electronic excitation in phase-change materials</title>
+      <link>/publication/ultrafast/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ultrafast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photo-assisted amorphization of the phase-change memory alloy</title>
+      <link>/publication/notmelting/</link>
+      <pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/notmelting/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

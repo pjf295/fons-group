@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuta Saito | Fons Research Group</title>
+    <link>/author/yuta-saito/</link>
+      <atom:link href="/author/yuta-saito/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuta Saito</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>P. Fons ©</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuta Saito</title>
+      <link>/author/yuta-saito/</link>
+    </image>
+    
+    <item>
+      <title>Cr-Triggered Local Structural Change in Cr₂Ge₂Te₆ Phase Change Material</title>
+      <link>/publication/cr2ge2te6/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cr2ge2te6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

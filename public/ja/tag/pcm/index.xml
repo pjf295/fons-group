@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PCM | フォンス研究グループ</title>
+    <link>/ja/tag/pcm/</link>
+      <atom:link href="/ja/tag/pcm/index.xml" rel="self" type="application/rss+xml" />
+    <description>PCM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>P. Fons ©</copyright><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>PCM</title>
+      <link>/ja/tag/pcm/</link>
+    </image>
+    
+    <item>
+      <title>Role of Electric fields in interfacial phase-change memory</title>
+      <link>/ja/publication/e-fields/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/e-fields/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>密度汎関数理論</title>
+      <link>/ja/project/dft/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/project/dft/</guid>
+      <description>&lt;p&gt;密度汎関数理論（Density-Functional Theory or DFT）は、さまざまな材料特性を予測するために使用されます。
+ab-initio分子動力学法を使用して、メルトクエンチシムレーションによってアモルファス構造を生成できます。
+平面波DFTソフトであるVASP（Vienna Ab initio Simulation Package）とCASTEP（CAmbridge Serial Total Energy Package）、
+そしてFP-LPAW+loであるWien2Kは、構造と電子構造の両方を調査するために使用されます。
+X線吸収分光法のデータの解析ために、実空間のグリーン関数ソフトFeff9と
+FMDNESシミュレーションソフトも利用します。&lt;/p&gt;
+&lt;p&gt;上の図は、電荷密度差（charge density difference: CDD）を示しています。
+短い結合と長い結合の両方を持つGeTe格子の断面を示します。
+固体原子と疑似原子の電荷密度の差をとることによって CDDプロットが作成されます。
+原子の間に電荷が集まっている場合、Paulingが説明しているように、共有結合を示唆します。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>超高速ダイナミクス</title>
+      <link>/ja/project/ultrafast/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/project/ultrafast/</guid>
+      <description>&lt;p&gt;化学反応とフォノン挙動の超高速測定は、時間分解X線吸収、自由電子レーザー回折、
+また、全光ポンププローブ実験によって測れます。上の図は、
+超高速20fsレーザーパルスに応答したGe-Sb-Te合金の回折信号の時間依存性を示しています。
+図の左側はシミュレーション結果を示し、図の右側は測定された回折信号を示しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electronic excitation-induced semiconductor-to-metal transition in monolayer MoTe₂</title>
+      <link>/ja/publication/tdmc/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/tdmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cr-Triggered Local Structural Change in Cr₂Ge₂Te₆ Phase Change Material</title>
+      <link>/ja/publication/cr2ge2te6/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/cr2ge2te6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub-nanometre resolution of atomic motion during electronic excitation in phase-change materials</title>
+      <link>/ja/publication/ultrafast/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/ultrafast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>アモルファス材料の構造解析</title>
+      <link>/ja/project/amorphous_materials/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/ja/project/amorphous_materials/</guid>
+      <description>&lt;p&gt;アモルファス材料の構造と特性は、これまで分析が困難でした。
+なぜならば、構造解析のため最もよく使われているツールの1つ、X線（ブラッグ）回折が使えないからです。
+一方、アモルファス相の材料特性は、アプリケーションに非常に便利です。
+その良い例が、特性を利用する相変化メモリ材料です。
+データストレージが結晶相とアモルファス相の特性の違いを利用します。
+私たちのグループの専門は、構造の違いと変換プロセス自体の両方を調査することです。
+放射光の分析技術を組み合わせて使用します。
+X線吸収分光法、高エネルギー光電子分光法、および全散乱などを用いてアモルファス固体の局所構造を解析します。
+次に、これらの実験の結果を密度汎関数理論と組み合わせて使用して、変換プロセスの完全な理解を構築します。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>相変化材料</title>
+      <link>/ja/project/pcm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/ja/project/pcm/</guid>
+      <description>&lt;p&gt;構造をメモリに使用するというアイデアは、スタンフォード・オブシンスキー (Stanford Ovshinsky)の独創的な研究により1960年代にあらわれました。
+オブシンスキーが不揮発性の電気メモリとして4元カルコゲニド合金を提案しました。
+初期のPCM（相変化メモリ：PCM）の大きなスイッチング電力要件は、そのアプリケーションを制限していました。
+1980年代に松下電器（現パナソニック）が相変化メモリ用のGe-Sb-Te合金を提案し、それを光メモリ（DVD-RAM）に利用したことが大きな発展につながりました。
+これにより、光ディスクのストレージ容量が50GBを超えるようになりました。
+また、同じGe-Sb-Te合金は現在、ストレージクラスの不揮発性メモリの形で採用されています
+（代表的な例としてIntelのOptaneメモリサブシスムがあります）。
+この新しい形式のストレージクラスメモリは、DRAMで10倍以内のレイテンシと書き込み速度を備えています。
+FLASHメモリと比較して不揮発性PCRAMの低遅延と高速により、DRAMとの互換性が高いアクセス速度を備えた中間形式のメモリとして使用できます。
+最近、界面相変化メモリ（iPCM）と呼ばれる新しい形式のPCMが提案されました。
+iPCMの電力要件は、従来のPCMの10分の1以下です。
+上の図は、iPCMメモリで切り替えるために提案されたメカニズムを示しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photo-assisted amorphization of the phase-change memory alloy</title>
+      <link>/ja/publication/notmelting/</link>
+      <pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/notmelting/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding the phase-change mechanism of rewritable optical media</title>
+      <link>/ja/publication/nm/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/nm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

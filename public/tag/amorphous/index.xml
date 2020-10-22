@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amorphous | Fons Research Group</title>
+    <link>/tag/amorphous/</link>
+      <atom:link href="/tag/amorphous/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amorphous</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>P. Fons ©</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Amorphous</title>
+      <link>/tag/amorphous/</link>
+    </image>
+    
+    <item>
+      <title>Cr-Triggered Local Structural Change in Cr₂Ge₂Te₆ Phase Change Material</title>
+      <link>/publication/cr2ge2te6/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cr2ge2te6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of Amorphous Materials</title>
+      <link>/project/amorphous_materials/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/amorphous_materials/</guid>
+      <description>&lt;p&gt;The structure and properties of amorphous materials have been traditionally hard to analyze
+as one of the most ubiquitous tools for structural analysis x-ray (Bragg) diffraction is not
+applicable. On the other hand, the material properties of the amorphous phase have proven to be
+very useful for applications. A case in point is phase-change memory which utilizes the properties
+differences between crystalline and amorphous phases for data storage. Our group specializes
+in using a combination of synchrotron based techniques such as x-ray absorption spectroscopy,
+high-energy photoelectron spectroscopy, as well as total scattering to experimentally determine the local
+structure of amorphous materials. These experimental results in conjunction with density-functional
+theory-based analysis and ab-initio molecular dynamics has allowed the unraveling of the
+unique properties of different phase-change alloys.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Tanida | フォンス研究グループ</title>
+    <link>/ja/author/h.-tanida/</link>
+      <atom:link href="/ja/author/h.-tanida/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Tanida</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>P. Fons ©</copyright><lastBuildDate>Fri, 15 Oct 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>H. Tanida</title>
+      <link>/ja/author/h.-tanida/</link>
+    </image>
+    
+    <item>
+      <title>Photo-assisted amorphization of the phase-change memory alloy</title>
+      <link>/ja/publication/notmelting/</link>
+      <pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/notmelting/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

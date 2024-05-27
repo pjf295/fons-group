@@ -22,6 +22,7 @@ bio: My research interests include the use of computational material science and
 
 interests:
  - Computational Materials Science
+ - Machine Learning and Materials Informatics
  - The structure and function of amorphous solids
  - Monolayer materials for electronics applications (transition metal dichalcogenides)
  - Materials design for new functionality

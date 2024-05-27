@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company = "Keio University"
   company_url = "http://www.keio.ac.jp"
   location = "Hiyoshi, Kanagawa"
-  date_start = "2030-04-01"
+  date_start = "2020-04-01"
   date_end = ""
   description = """Teaching materials science in the context of electronic engineering and researched semiconductor physics."""
 

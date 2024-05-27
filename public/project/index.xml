@@ -5,12 +5,29 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>P. Fons ©</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>P. Fons ©</copyright><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Machine Learning/Materials Informatics</title>
+      <link>/project/machinelearning/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>/project/machinelearning/</guid>
+      <description>&lt;p&gt;One of the caveats of density-functional theory is that calculations can produce copious amounts of output. Due to the
+complexity and volume of the output, this can lead to challenges in interpreting the generated output. Here well
+use CEGANN: Crystal Edge Graph Attention Neural Network for multiscale classification of materials environment[1] In this example,
+we represent bonds between atoms as well as bond angle information in a mathematical graph in an attention based architecture.
+These graphs are then introduced as an input layer to a convolutional neural network to &amp;ldquo;learn&amp;rdquo; the local environment
+about atoms in the three-dimensional structure. By training on amorphous and crystalline structures generated using &lt;em&gt;ab-initio&lt;/em&gt;*
+molecular dynamics, the nature of a site in a three-dimensional network can be distinguished as being crystalline or
+amorphous in nature.&lt;/p&gt;
+&lt;p&gt;[1] S. Banik, D. Dhabal, H. Chan, S. Manna, M. Cherukara, V. Molinero, and S. K. R. S. Sankaranarayanan. Cegann: Crystal edge graph attention neural network for multiscale classification of materials environ- ment. npj Computational Materials, 9(1):23, 2023.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Density-Functional Theory</title>

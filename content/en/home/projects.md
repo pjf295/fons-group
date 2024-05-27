@@ -90,5 +90,11 @@ such as x-ray absorption spectroscopy (XAFS) or high-energy photoemission spectr
 XAFS is a technique particular useful for understanding the structure of amorphous solids.
 Ultrafast dynamics has also been a topic of interest with collaborative efforts including 
 using the free-electron laser SACLA at SPring-8, coherent phonon dynamics, or
-ab-initio molecular dynamics calculations.
+ab-initio molecular dynamics calculations. In addition to the use of *ab-initio* based computational
+techniques in recent years, the Fons group has used machine learning techniques both to predict 
+good candidate materials for experiments such as selector materials as well as for the analysis
+of large datasets of molecular dynamic data. The use of machine learning techniques allows
+not only large improvements in the speed of analyzing large *ab-initio* computational datasets, but
+also large increases in the speed and size of molecular dynamics calculations by means of
+the use of machine-learned force fields based upon *ab-initio* calculations.
 

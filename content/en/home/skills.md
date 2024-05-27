@@ -18,7 +18,7 @@ subtitle = ""
   icon = "server"
   icon_pack = "fas"
   name = "server"
-  description = "Computational Materials Science"
+  description = "Computational Materials Science and Machine learning"
   
 [[feature]]
   icon = "chart-line"
